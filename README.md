@@ -23,4 +23,6 @@
 17. Monitor the Flume logs and HDFS directory to ensure successful data transfer.
 
 **The Hbase**
+
+
 ![The Hbase Architecture !](Images/architecture-of-hbase.webp)
