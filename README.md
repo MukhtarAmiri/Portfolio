@@ -22,5 +22,5 @@
 16. Start the Flume agent using the configured settings.
 17. Monitor the Flume logs and HDFS directory to ensure successful data transfer.
 
-**Apache Flume Architecture**
+**The Hbase**
 ![The Hbase Architecture !](Images/architecture-of-hbase.webp)
