@@ -1,7 +1,7 @@
 # Mukhtar's Portforlio
 *Analytics Portfolio*
 
-# [Project 1: Streaming data from its source to HDFS using Apache Flume](https://github.com/wngdlrs/hadoop/blob/main/flume.config)
+# DATA LOADING INTO Hbase from HDFS
 
 **Steps in configuring your Apache Flume**
 1. Open your Flume configuration file.
