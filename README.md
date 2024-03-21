@@ -23,4 +23,4 @@
 17. Monitor the Flume logs and HDFS directory to ensure successful data transfer.
 
 **Apache Flume Architecture**
-![The high level Architecture of Apache Flume !](images/Apache_flume.png)
+![The high level Architecture of Apache Flume !](Images/architecture-of-hbase.webp)
